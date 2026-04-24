@@ -1,0 +1,21 @@
+INDEX FILE 
+
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My First Website</title>
+</head>
+<body>
+
+  <h1>Welcome to My Website</h1>
+  <p>MY NAME IS Naveen KUSHWAHA</p>
+
+  <h2>About Me</h2>
+  <p>I AM beginner developer </p>
+
+  <h2>Contact</h2>
+  <p>Email: nk0039176@gmail.com</p>
+
+</body>
+</html>
